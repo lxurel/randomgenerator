@@ -1,0 +1,116 @@
+h1 {
+font-family: 'Bad Script', cursive;
+color: #FF5371;
+font-size: 50px;
+}
+
+body {
+  background-color: #7EA3FF;
+}
+
+button{
+  font-family: 'Bad Script', cursive;
+  font-size: 20px;
+  border: solid;
+  border-color: #FFECE6;
+  border-width: medium;
+}
+
+.button2{
+  padding-top: 50px;
+  margin-top:60px;
+  padding-bottom: 50px;
+  border: solid;
+  border-color: #FDF2E3;
+  border-width: thick;
+  background-color: #FFB563;
+  margin-right: 600px;
+  /* margin-left: 50px; */
+  width: 1000px;
+
+}
+
+.button3 {
+  padding-top: 50px;
+  margin-top:60px;
+  padding-bottom: 50px;
+  border: solid;
+  border-color: #FDF2E3;
+  border-width: thick;
+  background-color: #FFB563;
+  margin-right: 600px;
+  /* margin-left: 50px; */
+  width: 1000px;
+}
+
+.button4{
+  padding-top: 50px;
+  margin-top:60px;
+  padding-bottom: 50px;
+  border: solid;
+  border-color: #FDF2E3;
+  border-width: thick;
+  background-color: #FFB563;
+  margin-right: 600px;
+  /* margin-left: 50px; */
+  width: 1000px;
+}
+
+.button{
+
+  padding-top: 50px;
+  margin-top:60px;
+  padding-bottom: 50px;
+  border: solid;
+  border-color: #FDF2E3;
+  border-width: thick;
+  background-color: #FFB563;
+  margin-right: 600px;
+  /* margin-left: 50px; */
+  width: 1000px;
+}
+
+.output {
+  padding-top: 50px;
+  padding-right: 500px;
+  padding-left: 500px;
+  margin-top:60px;
+  padding-bottom: 50px;
+  border: solid;
+  border-color: #FDF2E3;
+  border-width: thick;
+  background-color: #FFB563;
+  color: #FDF2E3;
+  width: auto;
+  margin: auto;
+  font-size: 20px;
+  color: black;
+  /* left: 300px;
+  top: 100px; */
+
+}
+
+.buttons {
+  width: 50%;
+  margin: auto;
+
+}
+ /* div {
+  display: inline-block;
+
+} */
+
+/* .button {
+ display:block;
+ float:left;
+} */
+
+.buttoncolor{
+  background-color: #FF7D83;
+  display: inline-block;
+}
+
+.buttontwo{
+  background-color: #FF7D83;
+  display: inline-block;
+}
